@@ -8,7 +8,7 @@
 
 I'm [JVR2022](https://github.com/Jvr2022), a passionate developer from the Netherlands. Welcome to my GitHub profile! 🚀
 
-![Code](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Code](https://i.giphy.com/ukMiDlCmdv2og.webp)
 
 ## About Me
 
