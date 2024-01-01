@@ -33,18 +33,21 @@ Here's a project I'm proud of:
 ## GitHub Statistics
 
 - 📊 **Overall Statistics:**
+
+
   ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Jvr2022&show_icons=true&count_private=true&theme=radical)
 
 - 📊 **Languages:**
+
+  
   ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvr2022&layout=compact&theme=radical)
 
 ## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jvr2022&theme=nord&column=7)
 
-
 ## Contact
 
-You can reach me via [joshuavanrijswijk@outlook.com](mailto:joshuavanrijswijk@outlook.com).
+You can reach me via [joshuavanrijswijk@outlook.com](mailto:joshuavanrijswijk@outlook.com) or on Discord at `speedygamerx`.
 
 Thanks for stopping by! 😄
