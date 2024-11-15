@@ -1,13 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00FFC6&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Universe!+🌌;Ethical+Hacker.+Developer.;Let's+Build+a+Secure+Future+Together+🔐)](https://github.com/Jvr2022)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=joshua@github:~%23+Welcome!;I+am+an+Ethical+Hacker.;I+am+a+Developer.;I+am+a+Game+Maker.;Building+Secure+Tools%2C+Games+%26+Websites.;Explore+my+repository+below.)](https://github.com/Jvr2022)
 
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-09F7A0?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Learning+%26+Building-%2300BFFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-YES!-FF69B4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Role-Ethical%20Hacker-%2300FF00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Developer-%2300BFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Passion-Game%20Maker-%23FF5733?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-YES!-%23FFC300?style=for-the-badge">
 </p>
 
 </div>
