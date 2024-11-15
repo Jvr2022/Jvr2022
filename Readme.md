@@ -78,9 +78,6 @@ A groundbreaking project for exploring and securing Bluetooth vulnerabilities.
   <a href="https://github.com/Jvr2022">
     <img src="https://img.shields.io/badge/GitHub-Visit-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/Jvr2022">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </div>
 
 ---
