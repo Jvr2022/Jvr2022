@@ -1,13 +1,15 @@
 <div align="center">
 
-![Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0FFFD9&background=000000&width=800&lines=Welcome+to+My+Universe!+🚀;Developer+|+Ethical+Hacker+|+Innovator;Coding+the+Future%2C+One+Line+at+a+Time)
+![Welcome](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=45&duration=3000&pause=1000&color=09F7A0&background=000000&center=true&vCenter=true&lines=Welcome+to+My+World!+🌐;Innovator.+Hacker.+Developer.;Creating+Secure+Futures+🚀)
 
 ---
 
+![Banner](https://github.com/Jvr2022/Jvr2022/assets/banner-modern-animated.gif)
+
 <p>
-  <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-%2300FF00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-%2300BFFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-YES!-ff69b4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-09F7A0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Learning+%26+Building-%2300BFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-YES!-FF69B4?style=for-the-badge">
 </p>
 
 </div>
