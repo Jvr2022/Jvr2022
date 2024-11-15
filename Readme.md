@@ -1,53 +1,75 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with Markdown">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome">
+  <h1>Welcome to My GitHub! 👋</h1>
+  <p>
+    <img src="https://img.shields.io/badge/Code-Markdown-%231f425f.svg" alt="Markdown">
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT">
+    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions Welcome">
+  </p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Web+Developer;Tech+Explorer" alt="Typing SVG">
+  </p>
 </div>
 
-# Hello there! 👋
+---
 
-I'm [JVR2022](https://github.com/Jvr2022), a passionate developer from the Netherlands. Welcome to my GitHub profile! 🚀
+## 👨‍💻 About Me  
 
-![Code](https://i.giphy.com/ukMiDlCmdv2og.webp)
+I'm **[JVR2022](https://github.com/Jvr2022)**, a developer passionate about creating impactful tools and maintaining a secure digital world. Based in the Netherlands, I specialize in:  
 
-## About Me
+- 🌱 **Learning:** Constantly staying ahead of tech trends.  
+- 🛡️ **Ethical Hacking:** Finding vulnerabilities and enhancing cybersecurity.  
+- 💻 **Development:** Building web tools, apps, and innovative projects.  
 
-- 🌱 I'm constantly exploring new technologies and enhancing my skills.
-- 👨‍💻 My expertise lies in ethical hacking and building websites and tools.
-- 🎓 I have a background in ethical hacking.
+---
 
-## Technologies and Tools
+## 🛠️ Tech Stack  
 
-- 💻 **Programming Languages:** HTML, CSS, C#, Python, Lua, XML, JavaScript, Node.js.
-- 🛠️ **Frameworks and Libraries:** Node.js.
-- 🌐 **Web Technologies:** HTML, CSS.
+### **Languages**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+![Lua](https://img.shields.io/badge/Lua-%23005CFF.svg?style=flat&logo=lua&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 
-## Projects
+### **Tools & Frameworks**  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)  
 
-Here's a project I'm proud of:
+---
 
-1. 🚀 [Bluetooth DoS Attack](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK) - A project for conducting Bluetooth Denial of Service (DoS) attacks.
-   [![GitHub stars](https://img.shields.io/github/stars/Jvr2022/BLUETOOTH-DOS-ATTACK?style=flat-square)](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK/stargazers)
-   [![GitHub forks](https://img.shields.io/github/forks/Jvr2022/BLUETOOTH-DOS-ATTACK?style=flat-square)](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK/network/members)
+## 🌟 Featured Project  
 
-## GitHub Statistics
+### **[Bluetooth DoS Attack](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK)**  
+An ethical hacking tool designed to test Bluetooth vulnerabilities. Built for educational purposes to improve device security.  
 
-- 📊 **Overall Statistics:**
+[![GitHub stars](https://img.shields.io/github/stars/Jvr2022/BLUETOOTH-DOS-ATTACK?style=flat-square)](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/Jvr2022/BLUETOOTH-DOS-ATTACK?style=flat-square)](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK/network/members)  
 
+---
 
-  ![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Jvr2022&show_icons=true&count_private=true&theme=radical)
+## 📊 GitHub Stats  
 
-- 📊 **Languages:**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jvr2022&show_icons=true&theme=radical&hide=contribs" alt="GitHub Stats" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvr2022&layout=compact&theme=radical" alt="Top Languages" width="40%">
+</div>
 
-  
-  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvr2022&layout=compact&theme=radical)
+---
 
-## GitHub Trophies
+## 🏆 GitHub Achievements  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jvr2022&theme=nord&column=7)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jvr2022&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies">
+</div>
 
-## Contact
+---
 
-You can reach me via [joshuavanrijswijk@outlook.com](mailto:joshuavanrijswijk@outlook.com).
+## 📩 Contact  
 
-Thanks for stopping by! 😄
+Feel free to reach out to collaborate or share ideas!  
+
+- **Email:** [joshuavanrijswijk@outlook.com](mailto:joshuavanrijswijk@outlook.com)  
+- **GitHub:** [JVR2022](https://github.com/Jvr2022)  
+
+Thanks for stopping by! 🚀
