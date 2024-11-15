@@ -1,4 +1,4 @@
-<div align="center">
+6<div align="center">
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with Markdown">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome">
@@ -48,6 +48,6 @@ Here's a project I'm proud of:
 
 ## Contact
 
-You can reach me via [joshuavanrijswijk@outlook.com](mailto:joshuavanrijswijk@outlook.com) or on Discord at `speedygamerx`.
+You can reach me via [joshuavanrijswijk@outlook.com](mailto:joshuavanrijswijk@outlook.com).
 
 Thanks for stopping by! 😄
