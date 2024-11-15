@@ -1,75 +1,90 @@
 <div align="center">
-  <h1>Welcome to My GitHub! 👋</h1>
-  <p>
-    <img src="https://img.shields.io/badge/Code-Markdown-%231f425f.svg" alt="Markdown">
-    <img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT">
-    <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen" alt="Contributions Welcome">
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Web+Developer;Tech+Explorer" alt="Typing SVG">
-  </p>
+
+![Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0FFFD9&background=000000&width=800&lines=Welcome+to+My+Universe!+🚀;Developer+|+Ethical+Hacker+|+Innovator;Coding+the+Future%2C+One+Line+at+a+Time)
+
+---
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-%2300FF00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-%2300BFFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-YES!-ff69b4?style=for-the-badge">
+</p>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me  
+## 🌌 About Me  
 
-I'm **[JVR2022](https://github.com/Jvr2022)**, a developer passionate about creating impactful tools and maintaining a secure digital world. Based in the Netherlands, I specialize in:  
+Hi, I’m **[JVR2022](https://github.com/Jvr2022)**—a forward-thinking developer, ethical hacker, and creator from the Netherlands. I’m passionate about building **innovative solutions** for tomorrow's challenges and contributing to open-source projects.  
 
-- 🌱 **Learning:** Constantly staying ahead of tech trends.  
-- 🛡️ **Ethical Hacking:** Finding vulnerabilities and enhancing cybersecurity.  
-- 💻 **Development:** Building web tools, apps, and innovative projects.  
+- 🚀 **Mission:** Redefining innovation through secure and efficient coding.  
+- 💻 **Focus:** Ethical hacking, AI-powered tools, and web development.  
+- 🎯 **Future Vision:** Blending creativity with security for a better digital world.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### **Languages**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![Lua](https://img.shields.io/badge/Lua-%23005CFF.svg?style=flat&logo=lua&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,csharp,js,html,css,nodejs,lua,unity,git,linux" alt="Tech Stack" />
+</div>
 
-### **Tools & Frameworks**  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)  
+### Tools I Love:  
+- **Languages:** Python, C#, JavaScript, Lua, HTML/CSS.  
+- **Frameworks:** Node.js, Unity.  
+- **Technologies:** Ethical hacking, AI/ML, Cloud security.
 
 ---
 
-## 🌟 Featured Project  
+## 🌟 Highlighted Projects  
 
-### **[Bluetooth DoS Attack](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK)**  
-An ethical hacking tool designed to test Bluetooth vulnerabilities. Built for educational purposes to improve device security.  
-
-[![GitHub stars](https://img.shields.io/github/stars/Jvr2022/BLUETOOTH-DOS-ATTACK?style=flat-square)](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/Jvr2022/BLUETOOTH-DOS-ATTACK?style=flat-square)](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK/network/members)  
-
----
-
-## 📊 GitHub Stats  
+### 🚨 [Bluetooth DoS Attack](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK)  
+A groundbreaking project for exploring and securing Bluetooth vulnerabilities.  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jvr2022&show_icons=true&theme=radical&hide=contribs" alt="GitHub Stats" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvr2022&layout=compact&theme=radical" alt="Top Languages" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jvr2022&repo=BLUETOOTH-DOS-ATTACK&theme=radical" alt="Project Card">
 </div>
 
 ---
 
-## 🏆 GitHub Achievements  
+## 📊 GitHub Insights  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jvr2022&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jvr2022&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvr2022&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jvr2022&theme=radical&margin-w=15&row=1&column=7" alt="Trophies" width="90%">
 </div>
 
 ---
 
-## 📩 Contact  
+## 🏆 Achievements  
+  
+- 🚀 Contributed to multiple open-source tools.  
+- 🛡️ Recognized for ethical hacking contributions.  
+- 🌐 Collaborated with global developers to create impactful projects.  
 
-Feel free to reach out to collaborate or share ideas!  
+---
 
-- **Email:** [joshuavanrijswijk@outlook.com](mailto:joshuavanrijswijk@outlook.com)  
-- **GitHub:** [JVR2022](https://github.com/Jvr2022)  
+## 📬 Let’s Connect  
 
-Thanks for stopping by! 🚀
+<div align="center">
+  <a href="mailto:joshuavanrijswijk@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-%23FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Jvr2022">
+    <img src="https://img.shields.io/badge/GitHub-Visit-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/Jvr2022">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
+## 🧑‍🚀 Journey Ahead  
+
+Thanks for stopping by! Feel free to explore my repositories and connect. Together, we can **code the future**! 🌌
