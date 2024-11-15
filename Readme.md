@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00FFC6&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Universe!+🌌;Innovator.+Hacker.+Developer.;Let's+Build+a+Secure+Future+Together+🔐)](https://github.com/Jvr2022)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00FFC6&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Universe!+🌌;Ethical+Hacker.+Developer.;Let's+Build+a+Secure+Future+Together+🔐)](https://github.com/Jvr2022)
 
 ---
 
