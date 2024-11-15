@@ -1,10 +1,8 @@
 <div align="center">
 
-![Welcome](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=45&duration=3000&pause=1000&color=09F7A0&background=000000&center=true&vCenter=true&lines=Welcome+to+My+World!+🌐;Innovator.+Hacker.+Developer.;Creating+Secure+Futures+🚀)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00FFC6&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Universe!+🌌;Innovator.+Hacker.+Developer.;Let's+Build+a+Secure+Future+Together+🔐)](https://github.com/Jvr2022)
 
 ---
-
-![Banner](https://github.com/Jvr2022/Jvr2022/assets/banner-modern-animated.gif)
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-09F7A0?style=for-the-badge">
