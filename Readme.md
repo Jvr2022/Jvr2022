@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=joshua@github:~%23+Welcome!;I+am+an+Ethical+Hacker.;I+am+a+Developer.;I+am+a+Game+Maker.;Building+Secure+Tools%2C+Games+%26+Websites.;Explore+my+repository+below.)](https://github.com/Jvr2022)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=jvr2022@github:~%23+Welcome!;I+am+an+Ethical+Hacker.;I+am+a+Developer.;I+am+a+Game+Maker.;Building+Secure+Tools%2C+Games+%26+Websites.;Explore+my+repository+below.)](https://github.com/Jvr2022)
 
 ---
 
