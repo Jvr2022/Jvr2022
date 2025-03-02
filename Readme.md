@@ -28,7 +28,7 @@ Hi, I’m **[JVR2022](https://github.com/Jvr2022)**—a forward-thinking develop
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,lua,unity,git,linux,kotlin" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,lua,unity,git,linux,kotlin,github,typescript" alt="Tech Stack" />
 </div>
 
 ### Tools I Love:
