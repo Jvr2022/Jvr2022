@@ -1,95 +1,94 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=jvr2022@github:~%23+Welcome!;I+am+an+Ethical+Hacker.;I+am+a+Developer.;I+am+a+Game+Maker.;Building+Secure+Tools%2C+Games+%26+Websites.;Explore+my+repository+below.)](https://github.com/Jvr2022)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=32&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&lines=>+Access+Granted...;Welcome+to+JVR2022's+Repository;Ethical+Hacker+%7C+Developer+%7C+Game+Maker;Security+Meets+Creativity;Initiating+Data+Download...)
 
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/Role-Ethical%20Hacker-%2300FF00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Developer-%2300BFFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Passion-Game%20Maker-%23FF5733?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-YES!-%23FFC300?style=for-the-badge">
-</p>
+<img src="https://img.shields.io/badge/Role-Ethical%20Hacker-%2300FF00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Specialty-Secure%20Development-%2300BFFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Passion-Game%20Maker-%23FF5733?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Always%20Building-%23FFC300?style=for-the-badge">
 
 </div>
 
 ---
 
-## 🌌 About Me
+## 🧑‍💻 WHOAMI  
 
-Hi, I’m **[JVR2022](https://github.com/Jvr2022)**—a forward-thinking developer, ethical hacker, and creator from the Netherlands. I’m passionate about building **innovative solutions** for today's digital challenges.
+I’m **[JVR2022](https://github.com/Jvr2022)** — a digital architect from the Netherlands,  
+specializing in **ethical hacking**, **AI tools**, and **immersive game development**.  
 
-- 🚀 **Mission:** Redefining innovation through secure and efficient coding.
-- 💻 **Focus:** Ethical hacking, AI-powered tools, and web development.
-- 🎯 **Future Vision:** Blending creativity with security for a better digital world.
+⚡ **Mission:** Build tech that’s *fast*, *secure*, and *impactful*.  
+🔍 **Focus:** Cybersecurity, creative coding, and automation.  
+🎮 **Side Quest:** Designing worlds through game development.  
+
+> *"Security isn't a feature — it's a foundation."*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 TECH STACK  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,lua,unity,git,linux,kotlin,github,typescript" alt="Tech Stack" />
-</div>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,nodejs,lua,unity,kotlin,linux,git,github" />
+</div>  
 
-### Tools I Love:
-- **Languages:** Python, C#, JavaScript, Lua, HTML/CSS.
-- **Frameworks:** Node.js, Unity.
-- **Technologies:** Ethical hacking, AI/ML, Cloud security.
+- **Languages:** Python, C#, JavaScript/TypeScript, Lua, Java, Kotlin, HTML/CSS  
+- **Frameworks:** Node.js, Unity  
+- **Domains:** Penetration Testing, AI/ML, Cloud Security, Game Design  
 
 ---
 
-## 🌟 Highlighted Projects
+## 🚨 FEATURED OPERATIONS  
 
-### 🚨 [Bluetooth DoS Attack](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK)
-A groundbreaking project for exploring and securing Bluetooth vulnerabilities.
+### [Bluetooth DoS Attack](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK)  
+Research & proof-of-concept exploring Bluetooth vulnerabilities to improve wireless security.  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jvr2022&repo=BLUETOOTH-DOS-ATTACK&theme=radical" alt="Project Card">
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jvr2022&repo=BLUETOOTH-DOS-ATTACK&theme=radical">
+</div>  
 
 ---
 
-## 📊 GitHub Insights
+## 📊 SYSTEM STATS  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jvr2022&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvr2022&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jvr2022&show_icons=true&theme=radical&hide=issues" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvr2022&layout=compact&theme=radical" width="48%">
+</div>  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jvr2022&theme=radical&margin-w=15&row=1&column=7" alt="Trophies" width="90%">
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jvr2022&theme=radical&margin-w=10&row=1&column=7" width="90%">
+</div>  
 
 ---
 
-## 🏆 Achievements
+## 🏆 HIGHLIGHTS  
 
-- 🚀 Contributed to multiple open-source tools.
-- 🛡️ Recognized for ethical hacking contributions.
-- 🌐 Collaborated with global developers to create impactful projects.
+✅ Creator of multiple **open-source security tools**  
+✅ Recognized in **ethical hacking communities**  
+✅ Collaborated with developers across **multiple continents**  
 
 ---
 
-## 📬 Let’s Connect
+## 📡 CONTACT  
 
 <div align="center">
   <a href="mailto:joshuavanrijswijk@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-%23FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Encrypted%20Comm-%23FF4500?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/Jvr2022">
-    <img src="https://img.shields.io/badge/GitHub-Visit-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-%2312100E?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</div>
+</div>  
 
 ---
 
-## 🧑‍🚀 Journey Ahead
+## 🧑‍🚀 NEXT STEPS  
 
-Thanks for stopping by! Feel free to explore my repositories and connect. Together, we can **code the future**! 🌌
+Explore the repos. Fork the code.  
+Let’s **secure the future together**. 🛡  
 
 ---
 
-## 📈 Visitor Count
+## 📈 VISITOR LOG  
 ![Visitor Count](https://profile-counter.glitch.me/Jvr2022/count.svg)
-
----
