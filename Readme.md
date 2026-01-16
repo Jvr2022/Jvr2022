@@ -22,9 +22,9 @@ I am a security researcher and full-stack developer from the Netherlands. I spec
 
 ## Security Advisories
 
-| ID | Package | Vulnerability | Impact |
-| :--- | :--- | :--- | :--- |
-| **[GHSA-8qq5-rm4j-mr97](https://github.com/isaacs/node-tar/security/advisories/GHSA-8qq5-rm4j-mr97)** | `node-tar` | **Arbitrary File Overwrite** | Critical path traversal allowing container escape and RCE. <br> *Impacted 50M+ weekly downloads.* |
+| ID | Package | Vulnerability | Impact | CVE |
+| :--- | :--- | :--- | :--- | :--- |
+| **[GHSA-8qq5-rm4j-mr97](https://github.com/isaacs/node-tar/security/advisories/GHSA-8qq5-rm4j-mr97)** | `node-tar` | **Arbitrary File Overwrite** | Critical path traversal allowing container escape and RCE. <br> *Impacted 50M+ weekly downloads.* | [CVE-2026-23745](https://nvd.nist.gov/vuln/detail/CVE-2026-23745) |
 
 ## Technical Stack
 
