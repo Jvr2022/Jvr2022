@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/GitHub-Jvr2022-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://bugcrowd.com/h/Joshuavanrijswijk">
-      <img src="https://img.shields.io/badge/Bugcrowd-Joshua-FF8200?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
+      <img src="https://img.shields.io/badge/Bugcrowd-JoshuavanRijswijk-FF8200?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
     </a>
   </p>
 </div>
