@@ -76,16 +76,23 @@ Research tool designed to stress-test Bluetooth protocols (L2CAP/RFCOMM) and ana
   <p>Acknowledged for security contributions by:</p>
   <br>
   
-  <table border="0">
+  <table>
     <tr>
       <td align="center" valign="middle">
         <a href="https://bugcrowd.com/lastpass">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/LastPass_logo.svg/1280px-LastPass_logo.svg.png" height="45" alt="LastPass Security Program">
         </a>
       </td>
-      <td width="30"></td> <td align="center" valign="middle">
+      <td width="30"></td>
+      <td align="center" valign="middle">
         <a href="https://security.apple.com/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Apple_logo_with_text_%28white%29.png" height="45" alt="Apple Security">
+        </a>
+      </td>
+      <td width="30"></td>
+      <td align="center" valign="middle">
+        <a href="https://polarlearn.nl/">
+          <img src="https://i.imgur.com/dChmDfD.png" height="45" alt="PolarLearn">
         </a>
       </td>
     </tr>
