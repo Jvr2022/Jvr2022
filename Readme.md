@@ -16,7 +16,7 @@
   </p>
 </div>
 
-## Professional Summary
+## About Me
 
 I am a security researcher and full-stack developer from the Netherlands. I specialize in **Web, Android, and Open Source (OSS) hacking**. My background in development allows me to analyze complex codebases and find logic flaws that automated tools miss. I focus on white-box auditing, secure code implementation, and responsible disclosure to help secure the software supply chain.
 
