@@ -13,6 +13,12 @@
     <a href="https://bugcrowd.com/h/Joshuavanrijswijk">
       <img src="https://img.shields.io/badge/Bugcrowd-JoshuavanRijswijk-FF8200?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
     </a>
+    <a href="https://jvr2022.tech/">
+      <img src="https://img.shields.io/badge/Portfolio-jvr2022.tech-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://jvr2022.tech/vulns">
+      <img src="https://img.shields.io/badge/Advisories-jvr2022.tech%2Fvulns-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Advisories" />
+    </a>
   </p>
 </div>
 
@@ -20,11 +26,10 @@
 
 I am a security researcher and full-stack developer from the Netherlands. I specialize in **Web, Android, and Open Source (OSS) hacking**. My background in development allows me to analyze complex codebases and find logic flaws that automated tools miss. I focus on white-box auditing, secure code implementation, and responsible disclosure to help secure the software supply chain.
 
-## Security Advisories
+## Portfolio & Advisories
 
-| ID | Package | Vulnerability | Impact | CVE |
-| :--- | :--- | :--- | :--- | :--- |
-| **[GHSA-8qq5-rm4j-mr97](https://github.com/isaacs/node-tar/security/advisories/GHSA-8qq5-rm4j-mr97)** | `node-tar` | **Arbitrary File Overwrite** | Critical path traversal allowing container escape and RCE. <br> *Impacted 50M+ weekly downloads.* | [CVE-2026-23745](https://nvd.nist.gov/vuln/detail/CVE-2026-23745) |
+- **Portfolio:** [jvr2022.tech](https://jvr2022.tech/)
+- **Security Advisories / Vulnerability Research:** [jvr2022.tech/vulns](https://jvr2022.tech/vulns)
 
 ## Technical Stack
 
@@ -60,7 +65,7 @@ I am a security researcher and full-stack developer from the Netherlands. I spec
 ## Key Projects
 
 ### [BLUETOOTH-DOS-ATTACK](https://github.com/Jvr2022/BLUETOOTH-DOS-ATTACK)
-**Network Security • Python**
+**Network Security • Python**  
 Research tool designed to stress-test Bluetooth protocols (L2CAP/RFCOMM) and analyze device resilience against Denial of Service vectors.
 
 ## Activity
